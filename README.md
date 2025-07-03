@@ -6,7 +6,7 @@ Welcome to the **Mary Hardy Personal Portfolio Website**. This is a clean, moder
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](./developer.png)
+![screencapture-127-0-0-1-5500-index-html-2025-07-03-15_54_57](https://github.com/user-attachments/assets/9252f4bc-0971-4fe0-8abc-232e381d3b08)
 
 ---
 
