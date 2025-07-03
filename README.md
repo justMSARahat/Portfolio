@@ -3,7 +3,7 @@
 
 Welcome to the **Mary Hardy Personal Portfolio Website**. This is a clean, modern, and fully responsive portfolio template perfect for developers and designers to showcase their skills, experience, and projects.
 
-**Live Link: https://justmsarahat.github.io/Portfolio/ **
+**Live Link:** https://justmsarahat.github.io/Portfolio/ 
 
 ---
 
